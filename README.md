@@ -19,7 +19,7 @@
 ------------------
 ##### 主界面截图+计算结果测试截图（风格仿win10自带圆角风格）
 
-<img width="250" alt="image" src="https://github.com/ZJY-Joey/C-QT/assets/113656901/2a1613e2-78ed-45f3-8a97-8aa7cbf2e306">
+<img width="500" alt="image" src="https://github.com/ZJY-Joey/C-QT/assets/113656901/2a1613e2-78ed-45f3-8a97-8aa7cbf2e306">
 
 ![image](https://github.com/ZJY-Joey/C-QT/assets/113656901/1290ce56-9773-4528-87c7-7b637ec335ea)
 
